@@ -10,4 +10,8 @@ This is an example to show different parts of the Git reposetory and various com
 
 ## PURPOSE
 
+ As stated above, the main purpose is to provide examples for GIT training demos.
+
 ## DEPLOYMENT
+
+This is a simple web project, deployment can be on any web server or even local file system.
