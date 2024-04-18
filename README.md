@@ -14,3 +14,7 @@ This is an example to show different parts of the Git reposetory and various com
 ## DEPLOYMENT
 
 This is a simple web project, deployment can be on any web server or even local file system.
+
+### Copyright
+
+2024 Git.Training
