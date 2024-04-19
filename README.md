@@ -2,6 +2,8 @@
 
 This is a simple website project for showing to use GIt and Github together
 
+Adding a line for rebasing
+
 ## INTRDOCTION
 
 
